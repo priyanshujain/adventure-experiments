@@ -1,2 +1,2 @@
-# running
-My experiments with running
+# adventure experiments
+My experiments with adventure sports
